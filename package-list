@@ -11,4 +11,5 @@ com.ibm.mqlight.api.impl.network
 com.ibm.mqlight.api.impl.timer
 com.ibm.mqlight.api.logging
 com.ibm.mqlight.api.network
+com.ibm.mqlight.api.samples
 com.ibm.mqlight.api.timer
